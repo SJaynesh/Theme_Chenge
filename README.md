@@ -73,10 +73,6 @@ Remember to follow the instructions provided in a professional manner, make suit
 
 
 ### --: Photos :--
-![3]()
-![4]()
-![1]()
-![2]()
 
 <p>
   <img align = "left"  src = "https://github.com/SJaynesh/Theme_Chenge/assets/115562979/525845e0-c9ae-478d-b759-09837ae29dad.png" width=22% height=35% >
